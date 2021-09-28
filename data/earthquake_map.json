@@ -44,10 +44,8 @@
                     "type": "quantitative",
                     "scale": {
                         "type": "log",
-                        "rangeMax":1000,
                         "domain": [
                             4,
-                            7.5, 
                             10
                         ]
                     }
